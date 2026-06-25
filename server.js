@@ -26,14 +26,13 @@ mongoose.connect('mongodb://servispacement_db_user:test@ac-wrbrxfi-shard-00-00.r
 // Define a schema for our data
 
 const Schema = new mongoose.Schema({
-
 });
 
 
 
 // Define a model based on the schema
 
-const Itemb = mongoose.model('Item', Schema);
+const Item = mongoose.model('Item', Schema);
 
  
 

@@ -1,0 +1,16 @@
+div{
+    background-color: antiquewhite;
+    border: 3px outset black;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+button{
+    background-color: aliceblue;
+    border: 2px outset black;
+    border-radius: 15px;
+    padding: 8px;
+    margin: 5px
+}
